@@ -1,6 +1,6 @@
-# Admin Extension SDK Example App
+# Meteor Admin SDK Example App
 
-This repository contains an example folder structure inside `src/static` which you can use as an inspiration for your admin extensions in your app. It uses the [Admin Extension SDK](https://github.com/shopware/admin-extension-sdk) for extending the administration.
+This repository contains an example folder structure inside `src/static` which you can use as an inspiration for your admin extensions in your app. It uses the [Meteor Admin SDK](https://github.com/shopware/meteor-admin-sdk) for extending the administration.
 
 Everything else is just for setting up a basic app server.
 
