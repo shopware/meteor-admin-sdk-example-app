@@ -12,8 +12,8 @@ Everything else is just for setting up a basic app server.
 
 ## App installation
 
-1. Copy the folder `AdminExtensionSDKExampleApp` to the `custom/apps` folder inside your Shopware installation
-2. Install the App in Shopware: `bin/console app:install AdminExtensionSDKExampleApp`
+1. Copy the folder `MeteorAdminSDKExampleApp` to the `custom/apps` folder inside your Shopware installation
+2. Install the App in Shopware: `bin/console app:install MeteorAdminSDKExampleApp`
 
 Now you should see the app installed when opening the Shopware Admin and looking in "Extensions" -> "My Extensions".
 
