@@ -4,6 +4,10 @@ This repository contains an example folder structure inside `src/static` which y
 
 Everything else is just for setting up a basic app server.
 
+## DEPRECATION WARNING
+
+> ⚠️ This repository is considered deprecated and will be archived in March 2024. For the new version of this tool please go to [meteor-admin-sdk-example-app](https://github.com/shopware/meteor/tree/main/packages/admin-sdk-example-app).
+
 ## Initial setup
 
 1. Check out this repository somewhere locally.
